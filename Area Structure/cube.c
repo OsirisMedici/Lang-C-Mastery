@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+// it's a comment so I passed right??
+
 int main(int argc, char const *argv[])
 {
     int cube;
